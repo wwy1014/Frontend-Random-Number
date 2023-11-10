@@ -1,0 +1,26 @@
+.samer{
+    min-height:400px
+}
+
+@media only screen and (max-width: 767px)
+{
+    .hidetablet{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 990px)
+{
+    .startbtn{
+        margin-bottom:10px;
+    }
+    
+}
+
+@media only screen and (min-width: 991px)
+{
+    .startbtn{
+        margin-right: 10px;
+    }
+    
+}
